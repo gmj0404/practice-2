@@ -1,0 +1,104 @@
+#tomato {
+  background: tomato;
+  padding: 15px;
+  color: tomato;
+  text-align: center;
+}
+#orange {
+  background: orange;
+  padding: 15px;
+  color: orange;
+  text-align: center;
+}
+#dodgerblue {
+  background: dodgerblue;
+  padding: 15px;
+  color: dodgerblue;
+  text-align: center;
+}
+#mediumseagreen {
+  background: mediumseagreen;
+  padding: 15px;
+  color: mediumseagreen;
+  text-align: center;
+}
+#gray {
+  background: gray;
+  padding: 15px;
+  color: gray;
+  text-align: center;
+}
+#slateblue {
+  background: slateblue;
+  padding: 15px;
+  color: slateblue;
+  text-align: center;
+}
+#violet {
+  background: violet;
+  padding: 15px;
+  color: violet;
+  text-align: center;
+}
+#lightgray {
+  background: lightgray;
+  padding: 15px;
+  color: lightgray;
+  text-align: center;
+}
+#disappear :hover{
+  background-color: white;
+}
+  body {
+  margin: 0;
+}
+    @media(max-width: 800px) {
+      #tomato {
+        background: white;
+        padding: 15px;
+        color: tomato;
+        text-align: center;
+      }
+      #orange {
+        background: white;
+        padding: 15px;
+        color: orange;
+        text-align: center;
+      }
+      #dodgerblue {
+        background: white;
+        padding: 15px;
+        color: dodgerblue;
+        text-align: center;
+      }
+      #mediumseagreen {
+        background: white;
+        padding: 15px;
+        color: mediumseagreen;
+        text-align: center;
+      }
+      #gray {
+        background: white;
+        padding: 15px;
+        color: gray;
+        text-align: center;
+      }
+      #slateblue {
+        background: white;
+        padding: 15px;
+        color: slateblue;
+        text-align: center;
+      }
+      #violet {
+        background: white;
+        padding: 15px;
+        color: violet;
+        text-align: center;
+      }
+      #lightgray {
+        background: white;
+        padding: 15px;
+        color: lightgray;
+        text-align: center;
+      }
+}
